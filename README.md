@@ -4,7 +4,7 @@
 - 📫 How to reach me **zyaddhossam@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zyadd-hossam/" target="_blank">
+<a href="https://www.linkedin.com/in/zyadd-hossam/?wt.mc_id=studentamb_433496" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
     alt="Zyad Hossam LinkedIn" height="30" width="40" />
 </a>
@@ -33,8 +33,6 @@
 
 
 <div align="center" style="padding: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahdyassin&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdyassin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyaddhossam&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyaddhossam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
-
