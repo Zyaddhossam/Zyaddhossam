@@ -22,6 +22,7 @@
   <img src="https://raw.githubusercontent.com/Zyaddhossam/Zyad-Hossam/main/Pics/CLF-C02.png" alt="CLF-C02" width=100px; hight=100px;/>
   <img src="https://raw.githubusercontent.com/Zyaddhossam/Zyad-Hossam/main/Pics/AIF-C01.png" alt="AIF-C01" width=100px; hight=100px;/>
   <img src="https://raw.githubusercontent.com/Zyaddhossam/Zyad-Hossam/main/Pics/Beta.png" alt="Beta student ambassador" width=100px; hight=100px;/>
+  <img src="https://raw.githubusercontent.com/Zyaddhossam/Zyad-Hossam/main/Pics/AZ - 900 Badge.png" alt="AZ-900" width=120px; hight=120px;/>
 </p>
 
 
