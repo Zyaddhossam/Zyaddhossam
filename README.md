@@ -5,9 +5,9 @@
 
 -  I’m currently working on **Making Real-World Projects with Microsoft Azure and AWS**
 
--  I’m currently learning **AZ-900 "Azure Fundamentals", AZ-104 "Azure Administrator Associate", and AWS Solutions Architect Associate certification**  
+-  I’m currently learning **AZ-104 "Azure Administrator Associate", and AWS Solutions Architect Associate certification**  
 
--  I’ve Already achived **2x AWS Certificates**  
+-  I’ve Already achived **2x AWS Certificates, 1x Azure Certificates**  
 
 # 💻 Cloud Providers And certificates:
 
