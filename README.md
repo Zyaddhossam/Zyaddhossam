@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zyad</h1>
 <h3 align="center">
 A passionate Cloud Computing Student using Microsoft Azure & AWS | 
-🏅 Microsoft Learn Student Ambassador (Gold) | ☁️ AWS Community Builder
+Microsoft Student Ambassador (Gold) | ☁️ AWS Community Builder
 </h3>
 
 - 🔭 I’m currently working on **Building Real-World Projects with Microsoft Azure and AWS**
